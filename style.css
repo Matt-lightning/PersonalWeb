@@ -37,6 +37,8 @@ body,html {
 .landing_page_text h4 {
     text-align: left;
     margin: 10px;
+    color: white;
+    text-decoration-color: white;
 }
 .home_button {
     background-color: #555555;
